@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UTS PB Najwa Jauhari</string>
+    <string name="najwajauhari">NajwaJauhari</string>
+    <string name="hasil_pencarian_najwajauhari">Hasil Pencarian \"NajwaJauhari\"</string>
 </resources>

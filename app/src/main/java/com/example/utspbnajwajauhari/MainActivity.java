@@ -49,10 +49,10 @@ public class MainActivity extends AppCompatActivity {
 
         apiService = ApiConfig.getApiService();
 
-        etQuery.setText("NajwaJauhari");
+        etQuery.setText(R.string.najwajauhari);
 
         searchUsers("NajwaJauhari");
-        txtSearchResult.setText("Hasil Pencarian \"NajwaJauhari\"");
+        txtSearchResult.setText(R.string.hasil_pencarian_najwajauhari);
 
         btnSearch.setOnClickListener(new View.OnClickListener() {
             @Override
